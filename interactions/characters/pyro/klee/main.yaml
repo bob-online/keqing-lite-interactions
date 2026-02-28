@@ -24,6 +24,11 @@ buttons:
     emoji: ${ EMOJIS.LOGO }
     style: "LINK"
 
+  - label: "Quick Guide"
+    url: "https://keqingmains.com/q/klee-quickguide/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
+
   - label: "TCL"
     url: "https://library.keqingmains.com/characters/pyro/klee"
     emoji: ${ EMOJIS.MAGNIFY }
