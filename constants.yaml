@@ -31,7 +31,7 @@ IMAGES:
 
 INFOGRAPHICS:
   AINO_1: "https://editors.keqingmains.com/wp-content/uploads/2025/10/Aino_6.0_-_plumetra.png"
-  ALBEDO_1: "https://editors.keqingmains.com/wp-content/uploads/2024/04/Albedo-Infographic-4.5.png"
+  ALBEDO_1: "https://editors.keqingmains.com/wp-content/uploads/2026/02/Albedo_6.4_-_cote_hearttofhope.png"
   ALHAITHAM_1: "https://editors.keqingmains.com/wp-content/uploads/2025/02/Alhaitham_5.4.png"
   ALOY_1: "https://editors.keqingmains.com/wp-content/uploads/2024/04/Aloy-Support-Infographic-4.5.png" # support build
   ALOY_2: "https://editors.keqingmains.com/wp-content/uploads/2024/04/Aloy-Freeze-Infographic-4.5.png" # freeze
@@ -101,6 +101,7 @@ INFOGRAPHICS:
   IANSAN_1: "https://editors.keqingmains.com/wp-content/uploads/2025/08/Iansan-Infographic.png"
   IFA_1: "https://editors.keqingmains.com/wp-content/uploads/2025/11/Ifa-Swirl-DPS-6.1-kol.png" # swirl
   IFA_2: "https://editors.keqingmains.com/wp-content/uploads/2025/11/Ifa-Anemo-DPS-6.1-kol.png" # anemo
+  ILLUGA_1: "https://editors.keqingmains.com/wp-content/uploads/2026/02/Illuga_6.3_-_cegewinne-1.png"
   INEFFA_1: "https://editors.keqingmains.com/wp-content/uploads/2026/01/Ineffa_Infographic_6.3_-_auraolis.png"
   ITTO_1: "https://editors.keqingmains.com/wp-content/uploads/2025/06/Itto-Infographic-5.6.png"
   JAHODA_1: "https://editors.keqingmains.com/wp-content/uploads/2026/01/Jahoda_6.2.png"
@@ -119,9 +120,9 @@ INFOGRAPHICS:
   KIRARA_1: "https://editors.keqingmains.com/wp-content/uploads/2024/12/Kirara_5.3_-_cote.png"
   KLEE_1: "https://editors.keqingmains.com/wp-content/uploads/2026/02/Klee_On-field_6.3_-_ang_tahimik_cegewinne_auraolis.png" # on field
   KLEE_2: "https://editors.keqingmains.com/wp-content/uploads/2024/07/Klee_Burgeon_4.7_-_ang_tahimik.png" # burgeon
-  KOKOMI_1: "https://editors.keqingmains.com/wp-content/uploads/2024/12/Kokomi_Bloom_5.1_-_kol__cegewinne.png" # nilou bloom driver & supp
-  KOKOMI_2: "https://editors.keqingmains.com/wp-content/uploads/2024/11/Kokomi-Support-Infographic-5.1.png" # off-field support
-  KOKOMI_3: "https://editors.keqingmains.com/wp-content/uploads/2024/11/Kokomi-Driver-Infographic-5.1.png" # on-field driver
+  KOKOMI_1: "https://editors.keqingmains.com/wp-content/uploads/2026/02/Kokomi_Bloom_DPS_6.3.png" # nilou bloom driver & supp
+  KOKOMI_2: "https://editors.keqingmains.com/wp-content/uploads/2026/02/Kokomi_Off-Field_Support_6.3.png" # off-field support
+  KOKOMI_3: "https://editors.keqingmains.com/wp-content/uploads/2026/02/Kokomi_On-Field_Healer_Enabler_6.3.png" # on-field driver
   LANYAN_1: "https://editors.keqingmains.com/wp-content/uploads/2025/01/Lanyan_5.3_-_cote.png"
   LAYLA_1: "https://editors.keqingmains.com/wp-content/uploads/2024/12/Layla-Shielder-Infog-5.2.png" # shielder
   LAYLA_2: "https://editors.keqingmains.com/wp-content/uploads/2024/12/Layla-Off-Field-DPS-Infog-5.2.png" # off field dps
@@ -166,14 +167,17 @@ INFOGRAPHICS:
   SHINOBU_HYPERBLOOM_1: "https://editors.keqingmains.com/wp-content/uploads/2024/11/Shinobu-Hyperbloom-Infographic.png"
   SHINOBU_QUICKEN_1: "https://editors.keqingmains.com/wp-content/uploads/2024/11/Shinobu-Quicken-Infographic.png"
   SIGEWINNE_1: "https://editors.keqingmains.com/wp-content/uploads/2025/04/Sigewinne_5.5_-_cegewinne.png"
-  SKIRK_1: "https://editors.keqingmains.com/wp-content/uploads/2025/06/Skirk_5.7_-_euphorysm_fix.png"
+  SKIRK_1: "https://editors.keqingmains.com/wp-content/uploads/2026/02/Skirk_6.1_-_euphorysm.png"
   SUCROSE_1: "https://editors.keqingmains.com/wp-content/uploads/2024/11/Sucrose-Infographic-5.2.png"
   TARTAGLIA_1: "https://editors.keqingmains.com/wp-content/uploads/2025/07/Tartaglia_5.7_-_euphorysm-cegewinne-auraolis.png"
   THOMA_1: "https://editors.keqingmains.com/wp-content/uploads/2024/12/Thoma_Support_5.3_-_cote__euphorysm.png"
   THOMA_2: "https://editors.keqingmains.com/wp-content/uploads/2024/12/Thoma_Burgeon_5.3_-_cote__euphorysm.png"
   TIGHNARI_1: "https://editors.keqingmains.com/wp-content/uploads/2024/12/Tighnari_5.2_-_cote.png"
   VARESA_1: "https://editors.keqingmains.com/wp-content/uploads/2025/03/Varesa-Infographic-1.png"
-  VENTI_1: "https://editors.keqingmains.com/wp-content/uploads/2026/02/Venti_On-Field_DPS_6.2_-_shade.645.png"
+  VARKA_1: "https://editors.keqingmains.com/wp-content/uploads/2026/02/Varka_Infographic_6.4_-_cegewinne.png"
+  VARKA_ROT: "https://editors.keqingmains.com/wp-content/uploads/2026/02/Varka_Rotations_6.4.png"
+  VENTI_1: "https://editors.keqingmains.com/wp-content/uploads/2026/02/Venti_On-Field_DPS_6.2_-_shade.645.png" # on-field dps
+  VENTI_2: "https://editors.keqingmains.com/wp-content/uploads/2025/06/Venti_5.6_-_kol__cote_shade.645_Update.png" # support
   WANDERER_1: "https://editors.keqingmains.com/wp-content/uploads/2024/12/Wanderer_5.3_-_euphorysm__cote.png"
   WRIOTHESLEY_1: "https://editors.keqingmains.com/wp-content/uploads/2025/03/Wriothesley_Non-Melt_DPS_5.4_-_euphorysm__cote__cege.png" # non-melt
   WRIOTHESLEY_2: "https://editors.keqingmains.com/wp-content/uploads/2025/03/Wriothesley_Melt_5.4_-_euphorysm__cote.png" # melt
