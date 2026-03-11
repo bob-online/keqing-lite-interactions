@@ -1,0 +1,33 @@
+embeds:
+  - title: Varka
+    color: ${ COLORS.ANEMO_GREEN }
+    image: 
+      url: ${INFOGRAPHICS.VARKA_1}
+    thumbnail:
+      url: ${ICON.CHARACTER_VARKA}
+    description: |-
+      ★★★★★
+      *Anemo Claymore* 
+    footer:
+      text: ${LABEL.INFOGRAPHIC_CREDITS} cegewinne (Designer) | acerbus114 (Content)
+
+buttons:
+  # - label: "Guide"
+  #   url: "https://keqingmains.com/sucrose/"
+  #   emoji: ${ EMOJIS.LOGO }
+  #   style: "LINK"
+
+  - customId: "liveInteraction#characters/anemo/varka/varkarot"
+    label: "Varka Rotations"
+    style: PRIMARY
+    emoji: ${ EMOJIS.ELEMENT_ANEMO }
+
+  - label: "Quick Guide"
+    url: "https://keqingmains.com/q/varka-quickguide/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
+
+  - label: "TCL"
+    url: "https://library.keqingmains.com/characters/anemo/varka"
+    emoji: ${ EMOJIS.MAGNIFY }
+    style: "LINK"

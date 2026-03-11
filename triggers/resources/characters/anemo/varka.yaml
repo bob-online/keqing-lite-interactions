@@ -1,0 +1,4 @@
+interaction: characters/anemo/varka/main
+description: "Opens KQM's resources on Varka"
+match: ${ TRIGGER_PREFIX }varka(?:\s|$)
+ignoreCase: true
