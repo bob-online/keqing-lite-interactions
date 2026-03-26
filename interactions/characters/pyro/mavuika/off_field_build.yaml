@@ -10,6 +10,11 @@ embeds:
       text: ${LABEL.INFOGRAPHIC_CREDITS} cuppacote & auraolis (Designer) | hearttofhope (Content)
 
 buttons:
+  - label: "Quick Guide"
+    url: "https://keqingmains.com/q/mavuika-quickguide/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
+
   - label: "TCL"
     url: "https://library.keqingmains.com/characters/pyro/mavuika"
     emoji: ${ EMOJIS.MAGNIFY }
